@@ -7,6 +7,6 @@ This project is based on a video series by Ben Eater which shows how to build an
 The series by Ben Eater can be found here for those who are interested: https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
 
 ## Installation
-This world currently uses version 1.18.2 of Minecraft. To install it, place the folder called "Computer" into the "saves" folder in your Minecraft directory. 
+This world currently uses version 1.18.2 of Minecraft. To install it, extract the folder called "Computer" into the "saves" folder in your Minecraft directory. 
 
 If you are having trouble finding your Minecraft directory, this guide should help you out: https://help.minecraft.net/hc/en-us/articles/4409159214605
